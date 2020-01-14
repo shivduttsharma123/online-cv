@@ -67,17 +67,30 @@ publications:
       - title: "Nearly Linear Time Isomorphism Algorithms for Some Nonabelian Group Classes"
         link: "https://link.springer.com/chapter/10.1007%2F978-3-030-19955-5_8"
         authors: Bireswar Das, Shivdutt Sharma
-        conference: CSR, 2019
+        conference: CSR, 2019, Journal Version Submitted to JCSS.
 
       - title: "Succinct Representations of Finite Groups"
         link: "#"
         authors: Bireswar Das, Shivdutt Sharma, P. R. Vaidyanathan
-        conference: FCT, 2019
+        conference: FCT, 2019, Journal Version Submitted to TOCS.
 
       - title: "Nearly Optimal Space Efficient Algorithm for Depth First Search"
         link: "#"
         authors: Jayesh Choudhari, Manoj Gupta, Shivdutt Sharma
         conference: 
+        
+publications:
+    title: Awards/Achievements/Grants
+    intro: |
+    papers:
+    -title: Best Paper Award and Best Student Paper Award in FCT 2019
+    -title: ACM\IARCS Travel Grant of 60,000/- Rupees
+    -title: Special Issue of TOCS and JCSS
+    -title: Rank 1st in 4th Sem and Rank Five out of 95 Students in B.Tech
+    -title: Merit Certificate in 10th class with 
+    -title: Merit Certificate in 12th class 
+    
+    
 
 
 
