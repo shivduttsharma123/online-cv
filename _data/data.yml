@@ -63,24 +63,21 @@ education:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Nearly Linear Time Isomorphism Algorithms for Some Nonabelian Group Classes"
+        link: "https://link.springer.com/chapter/10.1007%2F978-3-030-19955-5_8"
+        authors: Bireswar Das, Shivdutt Sharma
+        conference: CSR, 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Succinct Representations of Finite Groups"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Bireswar Das, Shivdutt Sharma, P. R. Vaidyanathan
+        conference: FCT, 2019
 
-      - title: A syntax directed compiler for Algol 60
+      - title: "Nearly Optimal Space Efficient Algorithm for Depth First Search"
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Jayesh Choudhari, Manoj Gupta, Shivdutt Sharma
+        conference: 
 
 
 
