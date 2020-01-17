@@ -27,7 +27,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am currently a Ph.D student works in Theoretical Computer Science. 
+      I am currently a Ph.D student works in Theoretical Computer Science. I am working on Algorithmic questions related to the
+      group theory.
 education:
     - degree: Ph.D in Computer Science and Engineering
       university: Indian Institute of Technology, Gandhinagar, 2015
@@ -60,16 +61,7 @@ publications:
         authors: Jayesh Choudhari, Manoj Gupta, Shivdutt Sharma
         conference: 
         
-awards:
-    title: Awards/Achievements/Grants
-    intro: |
-    papers:
-    -title: Best Paper Award and Best Student Paper Award in FCT 2019
-    -title: ACM\IARCS Travel Grant of 60,000/- Rupees
-    -title: Special Issue of TOCS and JCSS
-    -title: Rank 1st in 4th Sem and Rank Five out of 95 Students in B.Tech
-    -title: Merit Certificate in 10th class with 
-    -title: Merit Certificate in 12th class 
+
     
     
 
